@@ -163,6 +163,12 @@
     "enana":"bpjskena",
     "東雲絵名":"bpjskena",
     "东云绘名":"bpjskena",
+    "knd": "bpjskkanade",
+    "kanade": "bpjskkanade",
+    "宵崎奏": "bpjskkanade",
+    "宵崎かなで": "bpjskkanade",
+    "かなで": "bpjskkanade",
+    "奏": "bpjskkanade",
     "fufu": "bfufu1",
     "变fu": "bfufu1",
     "爬": "bfufupa",
@@ -180,11 +186,5 @@
     "来份福瑞涩图": "bfurrysetu",
     "来份furry涩图": "bfurrysetu",
     "gay群": "bgay",
-    "给群": "bgay",
-    "knd": "bpjskkanade",
-    "kanade": "bpjskkanade",
-    "宵崎奏": "bpjskkanade",
-    "宵崎かなで": "bpjskkanade",
-    "かなで": "bpjskkanade",
-    "奏": "bpjskkanade"
+    "给群": "bgay"
 }
