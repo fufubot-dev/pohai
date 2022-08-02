@@ -45,4 +45,4 @@
 
 缩写我真的不想写轮子做了
 
-![] (pohai/bpjskkohane_stamp0395.png)
+![](pohai/bpjskkohane_stamp0395.png)
