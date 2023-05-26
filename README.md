@@ -33,6 +33,8 @@
 
 在某次commit后 我在库里加上了Project Sekai Colorful Stage 目前所有的stamp的图片
 
+目前还顺便把日服 国际服 韩服 繁体中文服的所有stamp也塞进去了
+
 并且把除了mfy/khn这样的缩写以外的
 
 几乎所有有可能匹配到角色的关键词全部加了进去
@@ -45,4 +47,5 @@
 
 缩写我真的不想写轮子做了
 
-![](pohai/bpjskkohane_stamp0395.png)
+![](pohai/bpjskkohane_stamp0395.png)![](pohai/bpjskkohane_stamp0395_en.png)![](pohai/bpjskkohane_stamp0395_tc.png)![](pohai/bpjskkohane_stamp0395_kr.png)
+
